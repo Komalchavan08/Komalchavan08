@@ -1,3 +1,5 @@
+Profile README — About me, my skills, projects, and GitHub activity
+
 # Hi, I'm Komal Chavan 👋
 
 🎓 MCA Graduate | 💻 Aspiring Software & Frontend Developer | Java • Python • SQL • Web Dev | 🚀 Tech Enthusiast | 🔨 Building projects to grow & inspire
