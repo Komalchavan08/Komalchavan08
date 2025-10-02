@@ -8,7 +8,7 @@
 - **Tools & Platforms:** Git, GitHub, VS Code, MySQL
 
 ## 📫 Contact Me
-- [LinkedIn](linkedin.com/in/komal-chavan-498a06266)  
+- [LinkedIn](https://www.linkedin.com/in/komal-chavan-498a06266)  
 - [Email](mailto:komalchavan6088@gmail.com)
 
 ![Komal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Komalchavan08&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide=prs)
