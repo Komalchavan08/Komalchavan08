@@ -4,7 +4,7 @@
 
 ## 🔧 Skills & Tools
 - **Languages:** Java, Python, SQL  
-- **Web:** HTML, CSS, JavaScript, Bootstrap  
+- **Web:** HTML5, CSS3, JavaScript, Bootstrap  
 - **Tools & Platforms:** Git, GitHub, VS Code, MySQL
 
 ## 📫 Contact Me
