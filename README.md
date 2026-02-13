@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Komal Chavan 👋
 
-<!--
-**Komalchavan08/Komalchavan08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate | 💻 Aspiring Software & Frontend Developer | Java • Python • SQL • Web Dev | 🚀 Tech Enthusiast
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools
+- **Languages:** Java, Python
+- **Web:** HTML5, CSS3, JavaScript, Bootstrap
+- **Database:** MySQL, SQL
+- **Tools & Platforms:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/komal-chavan23)  
+- [Email](mailto:komalchavan6088@gmail.com)
+
+## 📊 GitHub Stats
+![Komal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Komalchavan08&show_icons=true&theme=tokyonight)
