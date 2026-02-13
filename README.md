@@ -5,9 +5,9 @@
 ---
 
 ## 🔧 Skills & Tools
-**Languages:** Java, Python, C++ 
-**Web:** HTML5, CSS3, JavaScript, Bootstrap  
-**Database:** MySQL, SQL Server
+**Languages:** Java, Python, C++ <br>
+**Web:** HTML5, CSS3, JavaScript, Bootstrap <br>
+**Database:** MySQL, SQL Server <br>
 **Tools & Platforms:** Git, GitHub, VS Code
 
 ---
