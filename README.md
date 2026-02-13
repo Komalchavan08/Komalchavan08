@@ -5,11 +5,13 @@
 ---
 
 ## 🔧 Skills & Tools
-**Languages:** Java, Python, SQL  
+**Languages:** Java, Python, C++ 
 **Web:** HTML5, CSS3, JavaScript, Bootstrap  
-**Tools & Platforms:** Git, GitHub, VS Code, MySQL  
+**Database:** MySQL, SQL Server
+**Tools & Platforms:** Git, GitHub, VS Code
 
 ---
 
 ## 📫 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/komal-chavan23) | [Email](mailto:komalchavan6088@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-chavan23)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:komalchavan6088@gmail.com)
