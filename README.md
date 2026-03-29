@@ -132,14 +132,6 @@ JavaScript and API integration skills.
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Komalchavan08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Komalchavan08&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Komalchavan08&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
