@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Komal%20Chavan&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=MCA%20Graduate%20%7C%20Software%20%26%20Frontend%20Developer&descAlignY=60&descColor=a78bfa&animation=fadeIn" width="100%"/>
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Komal+Chavan;MCA+Graduate+%7C+Fresher;Aspiring+Software+%26+Frontend+Developer;Open+to+Work+%F0%9F%9A%80)
 
 </div>
 
@@ -132,14 +132,15 @@ JavaScript and API integration skills.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Komalchavan08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komalchavan08&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Komalchavan08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Komalchavan08&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Komalchavan08&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Komalchavan08&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
