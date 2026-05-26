@@ -90,7 +90,7 @@ It is a full-stack web application that allows users to compare insurance polici
 - Admin Dashboard, Fraud Detection & Analytics
 - Real-world internship experience with structured development workflow
 
-- [![View Repo](https://img.shields.io/badge/View%20Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Komalchavan08/insurance-claim-assistant)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Komalchavan08/insurance-claim-assistant)
 
 ---
 
