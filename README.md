@@ -76,7 +76,7 @@ currently:
 > 🚧 *Here are some highlights from my academic journey and internship experience:*
 
 ### 🔹 Insurance Comparison, Recommendation & Claim Assistant System 
-> 🏢 **Infosys Springboard Internship** &nbsp;|&nbsp; 🚧 *Currently in Development*
+> 🏢 **Infosys Springboard Internship** &nbsp;|&nbsp;
 >
 > **Tech Stack:** `React.js` `FastAPI (Python)` `PostgreSQL` `JWT`
 
@@ -89,6 +89,8 @@ It is a full-stack web application that allows users to compare insurance polici
 - Claims Filing, Documents & Tracking
 - Admin Dashboard, Fraud Detection & Analytics
 - Real-world internship experience with structured development workflow
+
+- [![View Repo](https://img.shields.io/badge/View%20Repo-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Komalchavan08/insurance-claim-assistant)
 
 ---
 
