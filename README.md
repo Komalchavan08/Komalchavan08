@@ -134,10 +134,6 @@ JavaScript and API integration skills.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Komalchavan08&show_icons=true&theme=tokyonight" height="170"/>
-
-<br><br>
-
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=Komalchavan08&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
