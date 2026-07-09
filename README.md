@@ -134,7 +134,7 @@ JavaScript and API integration skills.
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Komalchavan08&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Komalchavan08&show_icons=true&theme=tokyonight)
 
 </div>
 
